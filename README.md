@@ -3,8 +3,8 @@
 
 Currently I'm learning everything that expands my JavaScript fundamentals and React best practices and implementations.
 
+***
+
 ## These are my most advanced solo projects at the moment:
-
-🚧 [My portfolio](https://github.com/javlocan/javlocan.dev)
-
-🚧 [Buscaminas (minesweeper)](https://github.com/javlocan/buscaminas)
+- 🚧 [My portfolio](https://github.com/javlocan/javlocan.dev)
+- 🚧 [Buscaminas (minesweeper)](https://github.com/javlocan/buscaminas)
