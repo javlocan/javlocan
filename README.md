@@ -5,6 +5,6 @@ Currently I'm learning everything that expands my JavaScript fundamentals and Re
 
 ***
 
-## These are my most advanced solo projects at the moment:
-- 🚧 [My portfolio](https://github.com/javlocan/javlocan.dev)
+## These are my most advanced solo&public projects at the moment:
+- 🚧 [My portfolio](https://github.com/javlocan/javlocan-portfolio)
 - 🚧 [Buscaminas (minesweeper)](https://github.com/javlocan/buscaminas)
