@@ -1,7 +1,8 @@
 # Hi there 👋 this is javi
 ### If you are a recruiter and ended up here, please, take a look!
 
-Currently I'm learning everything that expands my JavaScript fundamentals and React best practices and implementations.    
+Currently I'm learning everything that expands my JavaScript fundamentals and React best practices and implementations.   
+    
 The _archived_ projects are just a part of my learning steps. I'm gonna tell you a story that might ring a bell. 
 ```js
 
