@@ -10,7 +10,7 @@ The _archived_ projects are just a part of my learning steps. I'm gonna tell you
 
 const keep_trying : boolean = () => new_project && learning && fun && interesting    // true
  
-for (let i = discover tech, i <= trully understand it, i+-+-+-+) {
+for (let i = discover_tech, i <= trully_understand_it, i+-+-+-+) {
       console.log('learning is not a linear process, you dummie')
       chaos_is_high = ecosystem === 'javascript' 
       
