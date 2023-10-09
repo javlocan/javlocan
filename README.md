@@ -22,7 +22,7 @@ for (let i = discover tech, i <= trully understand it, i+-+-+-+) {
 
 keep_trying() 
   ? archive_and_make_new_project_cause('I know how to use it better') 
-  : archive_and_make_new_project_cause('I'd rather use another tech')
+  : archive_and_make_new_project_cause('I\'d rather use another tech')
 
 
 ```
