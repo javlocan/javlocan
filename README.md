@@ -1,4 +1,4 @@
-# Hi there 👋 this is javi
+# Hi there 👋 this is javi = new JavaScript(developer)
 ### If you are a recruiter and ended up here, please, take a look!
 
 Currently I'm learning everything that expands my JavaScript fundamentals and React best practices and implementations.   
