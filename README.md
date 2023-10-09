@@ -4,6 +4,7 @@
 Currently I'm learning everything that expands my JavaScript fundamentals and React best practices and implementations.
 The _archived_ projects are just a part of my learning steps. I'm gonna tell you a story that might ring a bell. 
 ```js
+
 const keep_trying : boolean = () => new_project && learning && fun && interesting    // true
  
 for (let i = discover tech, i <= trully understand it, i+-+-+-+) {
@@ -19,5 +20,6 @@ for (let i = discover tech, i <= trully understand it, i+-+-+-+) {
 keep_trying() 
   ? archive_and_make_new_project_cause('I know how to use it better') 
   : archive_and_make_new_project_cause('I'd rather use another tech')
+
 
 ```
