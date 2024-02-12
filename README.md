@@ -1,9 +1,12 @@
 # hi there 👋 this is javi
+
 ### currently working at [clickferry.com](https://www.clickferry.com)
 
 ## web dev, reaching for the  🔙✴️ back
+
 ### i love
-      <ul>
+
+<ul>
 <li>linux</li>
 <li>rust</li>
 <li>htmx</li>
